@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    font-size: 14px;
+}
+
+#app {
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    outline: none;    
+}
+
+div,input,li {
+    box-sizing: border-box;
+}
+
+.cursorP {
+    cursor: pointer;
+}
+
+p {
+    margin: 0;
+}
+
+button {
+    outline: none;
+    background-color: rgba(255,255,255,0);
+    color: #fff;
+}
